@@ -1,6 +1,6 @@
-#Godot-Test Project Reference
+# Godot-Test Project Reference
 
-##File Organisation
+## File Organisation
 
 ## Root
 Godot-Test/.gitignore
